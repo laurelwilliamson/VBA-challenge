@@ -1,2 +1,2 @@
 # VBA-challenge
-Sort Stock Market Data
+In this homework challenge, I used Excel VBA to sort stock market data.
